@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Movie Project 1</string>
+    <string name="title_joker">Joker (2019)</string>
+    <string name="title_zombieland"><![CDATA[Zombieland: Double Tap (2019)]]></string>
+    <string name="title_doctor">Doctor Sleep (2019)</string>
+    <string name="title_spiderman">Spider-Man: Far from Home (2019)</string>
+    <string name="title_fast"><![CDATA[Fast & Furious Presents: Hobbs & Shaw]]></string>
+    <string name="title_frozen">Frozen II (2019)</string>
+    <string name="title_good">Good Boys (2019)</string>
+    <string name="title_it">It Chapter Two (2019)</string>
+    <string name="title_jumanji">Jumanji: The Next Level (2019)</string>
+    <string name="title_aladdin">Aladdin (2019)</string>
+    <string name="title_lion">The Lion King (2019)</string>
+    <string name="title_gemini">Gemini Man (2019)</string>
+    <string name="title_john">John Wick: Chapter 3 - Parabellum (2019)</string>
+    <string name="overview_joker">During the 1980s, a comedian stood unsuccessfully pushed crazy and turned to a life of crime and chaos in Gotham City while becoming a famous psychopathic crime figure.</string>
+    <string name="overview_zombieland">Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.</string>
+    <string name="overview_doctor">A traumatized, alcoholic Dan Torrance meets Abra, a kid who also has the ability to \"shine.\" He tries to protect her from the True Knot, a cult whose goal is to feed off of people like them in order to remain immortal.</string>
+    <string name="overview_spiderman">Peter Parker and his friends take a summer trip to Europe. However, they can hardly rest - Peter must agree to help Nick Fury unravel the mystery of the creatures that caused natural disasters and destruction across the continent.</string>
+    <string name="overview_fast"><![CDATA[Hobbs & Shaw (2019) Very exciting new western film cinema This tells the story of Luke Hobbs (Dwayne Johnson) forced to form an impossible alliance with Deckard Shaw (Jason Statham). Both are forced to unite to help Hattie Shaw (Vanessa Kirby) to hunt down dangerous virus weapons and Brixton (Idris Elba). Brixton is a new kind of villain who managed to turn himself into a superhuman. Its existence is a threat to humanity.]]></string>
+    <string name="overview_frozen">Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.</string>
+    <string name="overview_good">A group of young teenagers, embarking on an epic adventure to repair their drones, before the return of their parents.</string>
+    <string name="overview_it">27 years after overcoming the evil supernatural entity Pennywise, a former member of the Losers Club, which had grown and moved from Derry, was reunited by a devastating telephone call.</string>
+    <string name="overview_jumanji">Spencer returns to the world of Jumanji, prompting his friends, his grandfather and his grandfather’s friend to enter a different and more dangerous version to save him.</string>
+    <string name="overview_aladdin">Aladdin is a kind-hearted street criminal. He will compete with Jafar, an evil wizard for the magic lamp that has the power to make their deepest wishes come true.</string>
+    <string name="overview_lion">Simba idolized his father, King Mufasa, and took the heart of his own royal destiny. But not everyone in the kingdom celebrates the arrival of his new son. Scar, Mufasa\'s brother - and former heir to the throne - has his own plans. The battle for Pride Rock was marred by betrayal, tragedy and drama, which eventually resulted in Simba\'s exile. With the help of a curious pair of new friends, Simba must find ways to grow and take back what is rightfully her.</string>
+    <string name="overview_gemini">Ageing assassin, Henry Brogen tries to get out of the business but finds himself in the ultimate battle—fighting his own clone who is 25 years younger than him, and at the peak of his abilities.</string>
+    <string name="overview_john">Super-killer John Wick returns with a $ 14 million price tag on his head and an army of killer prize hunters on his trail. After killing an international shadow killer guild member, High Table, John Wick was ostracized, but the meanest hit men and women in the world waited every turn.</string>
+</resources>
